@@ -10,7 +10,7 @@ void ofApp::setup(){
     
     roboto.load("Roboto-Thin.ttf", 20);
     roboto.setLineHeight(22);
-    roboto.setSpaceSize(1.5);
+    roboto.setSpaceSize(1.3);
     
     receiver.setup(12000);
 }
